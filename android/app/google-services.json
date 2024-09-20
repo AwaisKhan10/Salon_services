@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51707042580",
+    "project_id": "styld-mobile-app",
+    "storage_bucket": "styld-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51707042580:android:357fb4fea429d4a9b28001",
+        "android_client_info": {
+          "package_name": "com.styld.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51707042580-6v34mfbpu10n1m5dcefpb85gnvet2s3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.styld.app",
+            "certificate_hash": "57ba55586f7d75382ac494481042fdd81e6b9a2e"
+          }
+        },
+        {
+          "client_id": "51707042580-40sgms1433svhoa9j0s5phgjia1n6hcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQnWFjWKLL4Oxl5AfTZgiblcSUri2HaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51707042580-40sgms1433svhoa9j0s5phgjia1n6hcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

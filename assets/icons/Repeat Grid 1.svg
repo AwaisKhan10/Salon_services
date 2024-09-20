@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.9" height="10.366" viewBox="0 0 10.9 10.366">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="10.9" height="10.366" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-159 -161.78)">
+      <path id="Icon_feather-star" data-name="Icon feather-star" d="M8.45,3l1.684,3.412,3.766.55L11.175,9.616l.643,3.749L8.45,11.594,5.082,13.366l.643-3.749L3,6.962l3.766-.55Z" transform="translate(156 158.78)" fill="#f7b74e"/>
+    </g>
+  </g>
+</svg>
